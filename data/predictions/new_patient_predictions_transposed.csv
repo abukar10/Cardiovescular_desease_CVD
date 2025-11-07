@@ -1,0 +1,13 @@
+,Patient_1,Patient_2,Patient_3,Patient_4,Patient_5
+Logistic Regression_Prob,0.3709587504467843,0.23964766806592913,0.9734739072093054,0.39400215208241096,0.9403513470478303
+Logistic Regression_Risk,Low Risk,Low Risk,High Risk,Low Risk,High Risk
+SVM (RBF)_Prob,0.156033181873413,0.20135811397558548,0.7782150003352827,0.17297906903578836,0.9048036605120775
+SVM (RBF)_Risk,Low Risk,Low Risk,High Risk,Low Risk,High Risk
+XGBoost_Prob,0.25741153955459595,0.025912156328558922,0.9563654065132141,0.20132096111774445,0.9593169689178467
+XGBoost_Risk,Low Risk,Low Risk,High Risk,Low Risk,High Risk
+Neural Net_Prob,0.25674960017204285,0.2106623351573944,0.9335886836051941,0.2802293002605438,0.962700605392456
+Neural Net_Risk,Low Risk,Low Risk,High Risk,Low Risk,High Risk
+Transformer_Prob,0.0052379099652171135,0.00505063496530056,0.9772129654884338,0.013794831931591034,0.9619325399398804
+Transformer_Risk,Low Risk,Low Risk,High Risk,Low Risk,High Risk
+Consensus_Risk,Low Risk,Low Risk,High Risk,Low Risk,High Risk
+Summary,Predicted LOW risk by majority of models.,Predicted LOW risk by majority of models.,Predicted HIGH risk by majority of models — further cardiac testing recommended.,Predicted LOW risk by majority of models.,Predicted HIGH risk by majority of models — further cardiac testing recommended.

@@ -1,0 +1,6 @@
+Model,Accuracy,Macro F1,CV_Accuracy_mean,CV_Accuracy_std,CV_AUC_mean,CV_AUC_std
+Neural Net,0.83,0.8,0.83,0.02,0.93,0.02
+Transformer,0.75,0.738,0.84,0.02,0.93,0.02
+SVM (RBF),0.817,0.814,0.83,0.025,0.901,0.024
+Logistic Regression,0.817,0.814,0.817,0.023,0.891,0.028
+XGBoost,0.833,0.83,0.814,0.027,0.884,0.02
